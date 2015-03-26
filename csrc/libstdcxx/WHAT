@@ -1,0 +1,7 @@
+libstdc++ 6.0.18 http://ppa.launchpad.net/ubuntu-toolchain-r/test/ubuntu/pool/main/g/gcc-4.8/ (GPLv3+LINK license)
+
+
+Also included: libgcc_so.1.
+libstdc++ and libgcc were not compiled from source.
+they both from the gcc 4.8.1 package from the 
+Ubuntu test toolchain PPA for Ubuntu 10.04.
