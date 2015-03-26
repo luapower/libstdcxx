@@ -1,4 +1,4 @@
-libstdc++ 6.0.18 http://ppa.launchpad.net/ubuntu-toolchain-r/test/ubuntu/pool/main/g/gcc-4.8/ (GPLv3+LINK license)
+libstdc++ 6.0.18 from http://ppa.launchpad.net/ubuntu-toolchain-r/test/ubuntu/pool/main/g/gcc-4.8/ (GPLv3+LINK license)
 
 
 Also included: libgcc_so.1.
