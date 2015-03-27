@@ -20,3 +20,5 @@
 !/csrc/libstdcxx/*
 !/bin/linux*/libstdc++*
 !/bin/linux*/libgcc*
+!/bin/mingw*/libstdc++*
+!/bin/mingw*/libgcc*
