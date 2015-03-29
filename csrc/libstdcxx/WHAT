@@ -1,5 +1,5 @@
 libstdc++ 6.0.18 from http://ppa.launchpad.net/ubuntu-toolchain-r/test/ubuntu/pool/main/g/gcc-4.8/ (GPLv3+LINK license)
-
+requires: pthread (mingw32 mingw64)
 
 This is actually a combination of different builds of gnu libstdc++ and libgcc.
 
